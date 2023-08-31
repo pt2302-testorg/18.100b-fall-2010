@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ]
+  ],
+  "legacy_uid": "5cbebccb-563b-377e-aac8-bbba150caed8",
+  "instructors": {
+    "content": [
+      "fc4cc1fb-7d53-2ede-71c2-313d940d2837"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5c88f940-8009-514f-73f4-1d6b5d91fd13",
+    "website": "18-100b-analysis-i-fall-2010"
+  },
+  "course_title": "Analysis I",
+  "course_description": "Analysis I covers fundamentals of mathematical analysis: metric spaces, convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.100B",
+  "course_image_thumbnail": {
+    "content": "8ed37fdd-5b9c-12b2-594c-01c3fb85eae9",
+    "website": "18-100b-analysis-i-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Exams with Solutions"
+  ],
+  "site_uid": "01029ac7-77df-4b92-886e-162e8a14d959",
+  "site_short_id": "18.100b-fall-2010",
+  "title": "Course Metadata"
+}
